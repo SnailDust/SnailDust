@@ -1,5 +1,7 @@
 ## Hi there 👋
-Welcome to my repository.
+Welcome to my profile.
+
+I'm currently learning about computer science at Western Washington University.
 
 <!--
 **SnailDust/SnailDust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
