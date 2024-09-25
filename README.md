@@ -1,7 +1,7 @@
 ## Hi there 👋
 Welcome to my profile.
 
-I'm currently learning about computer science at Western Washington University.
+I'm currently learning about computer science at Western Washington University, working towards a Bachelor in Computer Science. One of my favorite hobbies is to tinker with computers. 
 
 <!--
 **SnailDust/SnailDust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
